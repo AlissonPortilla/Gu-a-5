@@ -1,0 +1,5 @@
+Datos Registrados
+-----------------
+Nombre y apellido...: avasda svgdfb
+Genero..............: Masculino
+Estado..............: Mayor de edad
